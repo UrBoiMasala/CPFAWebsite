@@ -1,73 +1,41 @@
-# Welcome to your Lovable project
+# Cybersecurity Protection For All (CPFA)
 
-## Project info
+**Cybersecurity Protection For All (CPFA)** is a student-led initiative focused on promoting digital safety and cybersecurity awareness for individuals of all backgrounds. The goal of CPFA is to make cybersecurity knowledge more accessible, actionable, and relevant in today's connected world.
 
-**URL**: https://lovable.dev/projects/65e295df-4b85-49cf-8809-4cca29d138cd
+## 🌐 What is CPFA?
 
-## How can I edit this code?
+CPFA is a web-based platform designed to educate users about the basics of cybersecurity, raise awareness about digital threats, and provide practical tips for protecting personal data and online activity.
 
-There are several ways of editing your application.
+Whether you're a student, parent, educator, or just someone interested in staying safe online, CPFA offers easy-to-understand resources to help you navigate the digital world more securely.
 
-**Use Lovable**
+## 🔐 Key Objectives
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/65e295df-4b85-49cf-8809-4cca29d138cd) and start prompting.
+- **Educate** users about common cyber threats (phishing, malware, weak passwords, etc.)
+- **Empower** individuals to take action with simple, practical safety habits
+- **Encourage** digital responsibility and data protection for all internet users
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Features
 
-**Use your preferred IDE**
+- Clear explanations of cybersecurity concepts and best practices  
+- Downloadable safety guides and checklists  
+- Real-world examples and scenarios for learning  
+- A clean, responsive user interface built for clarity and accessibility
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Why It Matters
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Cybersecurity isn’t just for experts — it’s for everyone. As we increasingly rely on technology in daily life, the need for digital awareness and protection is more important than ever. CPFA bridges the knowledge gap with approachable content and helpful tools.
 
-Follow these steps:
+## 👨‍💻 Created By
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Siddharth Alluri**  
+Junior at Dublin High School  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📫 Contact
 
-# Step 3: Install the necessary dependencies.
-npm i
+For questions, feedback, or collaboration opportunities, feel free to reach out:  
+📧 siddharth.alluri@gmail.com  
+🌐 [siddharthalluri.com]
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/65e295df-4b85-49cf-8809-4cca29d138cd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> *“Protecting your data shouldn't be complicated. CPFA is here to make it simple.”*
