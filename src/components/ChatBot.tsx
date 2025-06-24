@@ -261,7 +261,7 @@ Would you like me to elaborate on any specific aspect?`;
         </button>
         <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
           <img 
-            src="/lovable-uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
+            src="/uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
             alt="CPFA Logo" 
             className="w-5 h-5 rounded"
           />
