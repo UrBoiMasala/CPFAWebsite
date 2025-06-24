@@ -106,7 +106,7 @@ const Index = () => {
                     }}
                   >
                     <img 
-                      src="/lovable-uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
+                      src="/uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
                       alt="CPFA Logo" 
                       className="w-32 h-32 object-contain filter drop-shadow-2xl"
                     />
@@ -121,7 +121,7 @@ const Index = () => {
                     }}
                   >
                     <img 
-                      src="/lovable-uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
+                      src="/uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
                       alt="CPFA Logo" 
                       className="w-32 h-32 object-contain filter drop-shadow-2xl"
                     />
@@ -212,7 +212,7 @@ const Index = () => {
             >
               <div className="relative h-64 sm:h-80 lg:h-96">
                 <img 
-                  src="/lovable-uploads/2e92ae1f-0683-4297-a54b-500721a35666.png" 
+                  src="/uploads/2e92ae1f-0683-4297-a54b-500721a35666.png" 
                   alt="Community Support" 
                   className="w-full h-full object-cover"
                 />
@@ -274,7 +274,7 @@ const Index = () => {
               <div className="sm:col-span-2 lg:col-span-1">
                 <div className="flex items-center space-x-2 mb-6">
                   <img 
-                    src="/lovable-uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
+                    src="/uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
                     alt="CPFA Logo" 
                     className="w-10 h-10 rounded-full"
                   />
