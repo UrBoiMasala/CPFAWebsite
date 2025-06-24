@@ -10,7 +10,7 @@ const About = () => {
     {
       name: "Shanay Gaitonde",
       title: "Co-Founder / COO",
-      image: "/lovable-uploads/842c21be-f27b-4859-a98e-d2b00bbec915.png",
+      image: "/uploads/842c21be-f27b-4859-a98e-d2b00bbec915.png",
       fallback: "SG",
       tags: ["Operations", "Strategy", "Leadership"],
       description: "Shanay leads our operations and strategic initiatives, ensuring CPFA runs efficiently while expanding our reach across the Bay Area."
@@ -18,7 +18,7 @@ const About = () => {
     {
       name: "Siddharth Alluri",
       title: "Co-Founder / CFO", 
-      image: "/lovable-uploads/30bc18a4-1150-47c7-96f8-9e07a38c51b0.png",
+      image: "/uploads/30bc18a4-1150-47c7-96f8-9e07a38c51b0.png",
       fallback: "SA",
       tags: ["Finance", "Planning", "Growth"],
       description: "Siddharth manages our financial operations and growth planning, ensuring sustainable expansion of our cybersecurity programs."
@@ -26,7 +26,7 @@ const About = () => {
     {
       name: "Vivaan Warrier",
       title: "Founder / CEO",
-      image: "/lovable-uploads/e508ab0e-00a9-4585-a663-c7c3d5d349ee.png", 
+      image: "/uploads/e508ab0e-00a9-4585-a663-c7c3d5d349ee.png", 
       fallback: "VW",
       tags: ["Vision", "Innovation", "Community"],
       description: "Vivaan founded CPFA with a vision to make cybersecurity accessible to all, leading our mission to protect communities through education."
@@ -34,7 +34,7 @@ const About = () => {
     {
       name: "Paresh Prabhu Raj",
       title: "Chief Technology Officer",
-      image: "/lovable-uploads/2468e903-5372-4490-9f95-52c5722e94dd.png",
+      image: "/uploads/2468e903-5372-4490-9f95-52c5722e94dd.png",
       fallback: "PP",
       tags: ["CTO", "Technology", "Innovation"],
       description: "Paresh leads our technology initiatives and innovation, driving the technical vision and development of our cybersecurity solutions."
@@ -56,7 +56,7 @@ const About = () => {
       title: "Cybersecurity Engineers",
       members: [
         { name: "Arjun Selvakumaran", tags: ["Security", "Research"] },
-        { name: "Aditya Shetty", tags: ["Engineering", "Development"], image: "/lovable-uploads/0448f290-5f80-49d9-9e5f-c2b5b1a17425.png", imagePosition: "object-top" },
+        { name: "Aditya Shetty", tags: ["Engineering", "Development"], image: "/uploads/0448f290-5f80-49d9-9e5f-c2b5b1a17425.png", imagePosition: "object-top" },
         { name: "Saketh Chakravadhanula", tags: ["Analysis", "Protection"] }
       ]
     },
@@ -64,7 +64,7 @@ const About = () => {
       title: "Financial Management",
       members: [
         { name: "Raghav Sinha", tags: ["Finance", "Analysis"] },
-        { name: "Nithin Aruswamy", tags: ["Operations", "Management"], image: "/lovable-uploads/ae3c12ea-3398-47e7-a2b0-0495abbcff14.png" }
+        { name: "Nithin Aruswamy", tags: ["Operations", "Management"], image: "/uploads/ae3c12ea-3398-47e7-a2b0-0495abbcff14.png" }
       ]
     },
     {
@@ -81,13 +81,13 @@ const About = () => {
         { name: "Sahiel Bose", tags: ["Mobile", "iOS"] },
         { name: "Ashish Bhogasamudram", tags: ["Android", "Cross-platform"] },
         { name: "Akul Patel", tags: ["Development", "UI/UX"] },
-        { name: "Aahan Rathod", tags: ["Mobile Development", "Innovation"], image: "/lovable-uploads/30462696-e60d-4eda-b820-b1736ce0bb41.png" }
+        { name: "Aahan Rathod", tags: ["Mobile Development", "Innovation"], image: "/uploads/30462696-e60d-4eda-b820-b1736ce0bb41.png" }
       ]
     },
     {
       title: "AI Engineer",
       members: [
-        { name: "Sanjana Salkar", tags: ["AI", "Machine Learning"], image: "/lovable-uploads/4e82d30b-2afd-41a4-a747-8446efe061ff.png" },
+        { name: "Sanjana Salkar", tags: ["AI", "Machine Learning"], image: "/uploads/4e82d30b-2afd-41a4-a747-8446efe061ff.png" },
         { name: "Ronak Hiremath", tags: ["Data Science", "Analytics"] },
         { name: "Varish Doma", tags: ["Deep Learning", "Research"] },
         { name: "Jayden Pham", tags: ["AI Systems", "Innovation"] },
