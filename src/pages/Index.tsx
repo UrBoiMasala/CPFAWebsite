@@ -190,7 +190,7 @@ const Index = () => {
             >
               <div className="relative h-64 sm:h-80 lg:h-96">
                 <img 
-                  src="/lovable-uploads/c21a4b72-0cb3-4368-ae57-a348b6b0a5ae.png" 
+                  src="/uploads/c21a4b72-0cb3-4368-ae57-a348b6b0a5ae.png" 
                   alt="Interactive Workshops" 
                   className="w-full h-full object-cover"
                 />
