@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
               <img 
-                src="/lovable-uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
+                src="/uploads/cc06afdb-d802-43af-be40-7ea3b59f9409.png" 
                 alt="CPFA Logo" 
                 className="w-10 h-10 rounded-full"
               />
