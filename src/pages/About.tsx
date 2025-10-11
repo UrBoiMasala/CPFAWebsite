@@ -38,6 +38,15 @@ const About = () => {
       fallback: "PP",
       tags: ["CTO", "Technology", "Innovation"],
       description: "Paresh leads our technology initiatives and innovation, driving the technical vision and development of our cybersecurity solutions."
+
+    },
+    {
+      name: "Krishay Kuchimanchi",
+      title: "Chief Marketing Officer",
+      image: "",
+      fallback: "KK",
+      tags: ["Marketing", "Brand Strategy", "Growth"],
+      description: "Krishay drives our marketing initiatives and brand strategy, ensuring CPFA's message reaches communities and expands our impact in cybersecurity education."
     }
   ];
 
@@ -45,9 +54,8 @@ const About = () => {
     {
       title: "Marketing/Management",
       members: [
-        { name: "Krishay Kuchimanchi", tags: ["Head of Marketing", "Strategy"] },
+        { name: "Chet Pothuraju", tags: ["VP of Marketing", "Strategy"] },
         { name: "Abhinav Muddasani", tags: ["Marketing", "Outreach"] },
-        { name: "Chet Pothuraju", tags: ["Management", "Operations"] },
         { name: "Pranav Peethani", tags: ["Strategy", "Growth"] },
         { name: "Kinjal Srivastava", tags: ["Communications", "Events"] }
       ]
@@ -130,7 +138,7 @@ const About = () => {
             className="mb-16"
           >
             <h2 className="text-4xl font-bold text-white mb-8 text-center">CPFA Leadership</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
               {teamMembers.map((leader, index) => (
                 <Dialog key={leader.name}>
                   <DialogTrigger asChild>
